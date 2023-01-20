@@ -2,10 +2,8 @@
 Realtime pothole severity classifier powered by Deep Learning  
 
 ## Installation Instructions
-Though one can work with the project without an virtual environment,  it is recommended to use one so 
-as to avoid conflicts with other projects.
 
-0. Make sure that you have `Python 3`, `python-3-devel`, `gcc`, `virtualenv`, and `pip` installed.     
+0.U  need  `Python 3`, `python-3-devel`, `gcc`, `virtualenv`, and `pip` installed.     
 1. Clone the repository
 
     ```bash
